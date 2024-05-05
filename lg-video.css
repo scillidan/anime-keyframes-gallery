@@ -1,0 +1,59 @@
+@import url("https://cdn.jsdelivr.net/gh/scillidan/fonts@latest/serve/fusion-kai-j.css");
+
+html {
+  background-color: #111111;
+}
+
+body {
+  margin: 1.5px;
+}
+
+.und1 {
+  text-decoration: underline #fffff8;
+  text-underline-offset: -0.05rem;
+  text-decoration-skip: spaces edges;
+}
+
+.und2 {
+  text-decoration: line-through #111111 0.1rem;
+}
+
+.lg-container {
+  font-family: "Fusion Kai J";
+  font-style: normal;
+  text-transform: capitalize;
+}
+
+.lg-sub-html {
+  text-align: left;
+  padding-bottom: 1vh;
+}
+
+@media only screen and (min-width: 768px) {
+  .lg-sub-html {
+    padding-left: 20vw;
+    padding-right: 20vw;
+  }
+  .lg-sub-html h4 {
+    font-size: 1.5em;
+  }
+
+  .lg-sub-html p {
+    font-size: 1rem;
+    padding-bottom: 1vw;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .lg-sub-html {
+    padding-left: 5vw;
+    padding-right: 5vw;
+  }
+  .lg-sub-html h4 {
+    font-size: 2em;
+  }
+
+  .lg-sub-html p {
+    font-size: 1.5rem;
+  }
+}
