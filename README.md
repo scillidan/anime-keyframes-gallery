@@ -1,6 +1,6 @@
 # lg-gif
 
-[![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)](https://lg-gif.netlify.app)
+[![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)](https://gm-lg-gif.netlify.app)
 
 Archive from [猫与牛仔裤的个人作画分享](https://jandan.net/bbs#/topic/520).
 
@@ -149,7 +149,7 @@ Create `gifa3.sublime-snippet` to write `<a>` tag include pictures:
 
 ## Desktop recording
 
-[![lg-gif desktop recording](https://img.youtube.com/vi/uVJlbPNOkQU/0.jpg)](https://youtu.be/uVJlbPNOkQU)
+On [Youtube](https://youtu.be/uVJlbPNOkQU).
 
 ## Attribute
 
