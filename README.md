@@ -4,6 +4,15 @@
 
 Archive from [猫与牛仔裤的个人作画分享](https://jandan.net/bbs#/topic/520).
 
+## Preview on local
+
+```sh
+git clone https://github.com/scillidan/lg-gif
+cd lg-gif
+npm install -g serve
+serve -s . -p 4321
+```
+
 ## How to make
 
 Download `.gif` into YourFolder, rename them:
@@ -84,7 +93,7 @@ Then:
 mp4-poster.bat
 ```
 
-## How write in `.html`
+## How to write in `.html`
 
 [Sublime Text](https://www.sublimetext.com/) → Tools → Developer → New Snippet:
 
@@ -147,9 +156,9 @@ Create `gifa3.sublime-snippet` to write `<a>` tag include pictures:
 </snippet>
 ```
 
-## Desktop recording
+## How to ...
 
-On [Youtube](https://youtu.be/uVJlbPNOkQU).
+See more in a desktop recording on [Youtube](https://youtu.be/uVJlbPNOkQU) or on [bilibili](https://www.bilibili.com/video/BV1Mi421k7Bp/).
 
 ## Attribute
 
