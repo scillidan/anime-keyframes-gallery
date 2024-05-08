@@ -158,7 +158,9 @@ Create `gifa3.sublime-snippet` to write `<a>` tag include pictures:
 
 ## How to ...
 
-See more in a desktop recording on [Youtube](https://youtu.be/uVJlbPNOkQU) or on [bilibili](https://www.bilibili.com/video/BV1Mi421k7Bp/).
+See desktop recording for more.  
+On Youtube: [01](https://youtu.be/uVJlbPNOkQU), [02](https://youtu.be/f_RYFDWhpIE).  
+On bilibili: [01](https://www.bilibili.com/video/BV1Mi421k7Bp/), [02](https://www.bilibili.com/video/BV1xM4m1C7wo).
 
 ## Attribute
 
