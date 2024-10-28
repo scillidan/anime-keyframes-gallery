@@ -158,12 +158,10 @@ Create `gifa3.sublime-snippet` to write `<a>` tag include pictures:
 
 ## How to ...
 
-See desktop recording for more.  
-On Youtube: [01](https://youtu.be/uVJlbPNOkQU), [02](https://youtu.be/f_RYFDWhpIE).  
-On bilibili: [01](https://www.bilibili.com/video/BV1Mi421k7Bp/), [02](https://www.bilibili.com/video/BV1xM4m1C7wo).
+See desktop recording on [Youtube](https://youtu.be/uVJlbPNOkQU), [bilibili](https://www.bilibili.com/video/BV1Mi421k7Bp/).
 
 ## Attribute
 
-Video clips in `media/**`, text data in `index.html` belong to 猫与牛仔裤。  
 lightGallery's license is [here](https://www.lightgalleryjs.com/license/).  
-Content of `README.md` licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
+Video clips in `media/**`, text data in `index.html` belong to 猫与牛仔裤.  
+The content write by me is under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
