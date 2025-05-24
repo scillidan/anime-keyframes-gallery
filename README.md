@@ -4,6 +4,8 @@
 
 Archive from [猫与牛仔裤的个人作画分享](https://jandan.net/bbs#/topic/520).
 
+PS: Some `.gif` cannot be downloaded. In order to keep the serial numbers continuous, Updates will continue after I go to the weibo website to download resources. But I can't find my Weibo account back at present.
+
 ## Preview on local
 
 ```sh
@@ -15,10 +17,10 @@ serve -s . -p 4321
 
 ## How to make
 
-Download `.gif` into YourFolder, rename them:
+Download `.gif` into <your_folder>, rename them:
 
 ```
-YourFolder
+<your_folder>
 	├─ 001001.gif 
 	├─ 001002.gif
 	├─ 001101.jpg
@@ -83,7 +85,7 @@ pause
 Batch processing under folder:
 
 ```sh
-cd YourFolder
+cd <your_folder>
 gif2mp4.bat
 ```
 
@@ -97,7 +99,7 @@ mp4-poster.bat
 
 [Sublime Text](https://www.sublimetext.com/) → Tools → Developer → New Snippet:
 
-Create `gifa.sublime-snippet` to write `<a>` tag include the first `.mp4` and all text data:
+Create `lggif_atag.sublime-snippet` to write `<a>` tag include the first `.mp4` and all text data:
 
 ```
 <snippet>
@@ -115,11 +117,12 @@ Create `gifa.sublime-snippet` to write `<a>` tag include the first `.mp4` and al
 $7
 ]]></content>
   <tabTrigger>gifa</tabTrigger>
-  <description></description>
+  <scope>text.html</scope>
+  <description>lg-gif a-tag</description>
 </snippet>
 ```
 
-Create `gifa2.sublime-snippet` to write `<a>` tag include the other `.mp4`:
+Create `lggif_atag_2.sublime-snippet` to write `<a>` tag include the other `.mp4`:
 
 ```
 <snippet>
@@ -136,11 +139,12 @@ Create `gifa2.sublime-snippet` to write `<a>` tag include the other `.mp4`:
 $2
 ]]></content>
   <tabTrigger>gifa2</tabTrigger>
-  <description>no data-sub-html</description>
+  <scope>text.html</scope>
+  <description>lg-gif no-data-sub-html</description>
 </snippet>
 ```
 
-Create `gifa3.sublime-snippet` to write `<a>` tag include pictures:
+Create `lggif_atag_3.sublime-snippet` to write `<a>` tag include pictures:
 
 ```
 <snippet>
@@ -152,7 +156,8 @@ Create `gifa3.sublime-snippet` to write `<a>` tag include pictures:
       </a>
 ]]></content>
   <tabTrigger>gifa3</tabTrigger>
-  <description>for image</description>
+  <scope>text.html</scope>
+  <description>lg-gif image</description>
 </snippet>
 ```
 
