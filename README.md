@@ -1,6 +1,6 @@
 # Anime Keyframes Gallery
-
-[![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)](https://gm-anime-keyframes-gallery.vercel.app/)
+ 
+[![](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://scillidan.github.io/anime-keyframes-gallery) [![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)](https://gm-anime-keyframes-gallery.vercel.app/)
 
 Archive from [猫与牛仔裤的个人作画分享](https://jandan.net/bbs#/topic/520).
 
