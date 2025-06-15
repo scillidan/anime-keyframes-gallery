@@ -6,6 +6,8 @@ Archive from [猫与牛仔裤的个人作画分享](https://jandan.net/bbs#/topi
 
 PS: Some `.gif` cannot be downloaded. In order to keep the serial numbers continuous, Updates will continue after I go to the weibo website to download resources. But I can't find my Weibo account back at present.
 
+![](asset/anime-keyframes-gallery.png)
+
 ## Preview on local
 
 ```sh
