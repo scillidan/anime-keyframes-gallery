@@ -1,5 +1,11 @@
 # Anime Keyframes Gallery
- 
+
+[![CC0 1.0][cc-zero-image]][cc-zero]
+
+[cc-zero]: http://creativecommons.org/licenses/zero/1.0/
+[cc-zero-image]: https://i.creativecommons.org/l/zero/1.0/88x31.png
+[cc-zero-shield]: https://img.shields.io/badge/License-CC%20ZERO%201.0-lightgrey.svg
+
 [![](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://scillidan.github.io/anime-keyframes-gallery) [![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)](https://gm-anime-keyframes-gallery.vercel.app/)
 
 Archive from [猫与牛仔裤的个人作画分享](https://jandan.net/bbs#/topic/520).
@@ -171,4 +177,4 @@ See desktop recording on [Youtube](https://youtu.be/uVJlbPNOkQU), [bilibili](htt
 
 lightGallery's license is [here](https://www.lightgalleryjs.com/license/).  
 Video clips in `media/**`, text data in `index.html` belong to 猫与牛仔裤.  
-The content write by me is under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
+Others is under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
