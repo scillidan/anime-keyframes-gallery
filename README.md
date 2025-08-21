@@ -10,7 +10,7 @@
 
 Archive from [猫与牛仔裤的个人作画分享](https://jandan.net/bbs#/topic/520).
 
-PS: On source url, some `.gif` cannot be downloaded. I only have a phone number and can't find my Weibo account back. And I will update them in later.
+PS: On source url, some `.gif` cannot be downloaded. I only have a phone number and can't find my Weibo account back. So, I will update them in the long later.
 
 ![](asset/anime-keyframes-gallery.png)
 
@@ -34,7 +34,7 @@ serve -s . -p 4321
 	```sh
 	ffmpeg -i $1.mp4 -vframes 1 $1_poster.jpg
 	```
-4. Edit [index.html](index.html]. I recorded the desktop, see it on [Youtube](https://youtu.be/uVJlbPNOkQU) or [bilibili](https://www.bilibili.com/video/BV1Mi421k7Bp/).
+4. Edit [index.html](index.html). I recorded the desktop, see it on [Youtube](https://youtu.be/uVJlbPNOkQU) or [bilibili](https://www.bilibili.com/video/BV1Mi421k7Bp/).
 
 ## Attribute
 
