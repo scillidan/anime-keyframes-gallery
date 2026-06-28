@@ -1,4 +1,4 @@
-@import url("https://cdn.jsdelivr.net/gh/scillidan/fonts@latest/serve/fusion-kai-j.css");
+@import url("https://cdn.jsdelivr.net/gh/scillidan/fonts-cdn@sarasa-mono-sc@1.0.39/dist/css/sarasa-mono-sc.css");
 
 html {
   background-color: #111111;
@@ -19,7 +19,7 @@ body {
 }
 
 .lg-container {
-  font-family: "Fusion Kai J";
+  font-family: "Sarasa Mono SC";
   font-style: normal;
   text-transform: capitalize;
 }
